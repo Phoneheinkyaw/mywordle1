@@ -5,20 +5,41 @@
     font-size: 45px;
     width: 65px;
     box-shadow: 5px;
-    background: rgb(94, 86, 86)  
-
-
+    background: rgb(94, 86, 86)  ;
+    margin-right: 8px;
+    border: 0px;
 }
-.M{
+
+.row {
+    margin-bottom: 8px;
+}
+
+.orange {
+    background-color: #b59f3b;
+}
+
+.green {
+    background-color: #538d4e;
+}
+
+.black {
+    background-color: rgb(51, 51, 51);
+}
+
+.A {
+    margin-left: 21px;
+}
+#ENTER {
+    width: auto;
+    margin-right: 10px;
+}
+.key {
     color:rgb(8, 1, 1);
     height: 1.5cm;
     border-radius:4px ;
     font-size: 15px;
     width: 45px;
     box-shadow: 5px;
-    background: rgb(4, 247, 45);
-    
-
 }
 h1{
     color: rgb(70, 100, 126);
@@ -30,16 +51,6 @@ h1{
 body{
     background-color: black;
 }
-.ENTER{
-    color:rgb(8, 1, 1);
-    height: 1.5cm;
-    border-radius:4px ;
-    font-size: 15px;
-    width: 70px;
-    box-shadow: 5px;
-    background: rgb(4, 247, 45);
-    margin-right:10 px;
-}
 .Delete{
     color:rgb(8, 1, 1);
     height: 1.5cm;
@@ -47,7 +58,6 @@ body{
     font-size: 15px;
     width: 70px;
     box-shadow: 5px;
-    background: rgb(4, 247, 45);
     margin-right: 20px;
 
 }
@@ -61,14 +71,4 @@ body{
 {
     
     margin-left: 550px;
-}
-.N{
-    color:rgb(8, 1, 1);
-    height: 1.5cm;
-    border-radius:4px ;
-    font-size: 20px;
-    width: 50px;
-    box-shadow: 5px;
-    background: rgb(4, 247, 45);
-    margin-left: 21px;
 }
